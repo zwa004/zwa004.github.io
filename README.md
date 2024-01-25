@@ -38,7 +38,7 @@ To enhance Zach Allgood's employability in Project Management by 100% within 90 
 	- Milestone 1.5 - Deployment
 - **Goal 2**: Completion of the Coursera Google Project Management Certificate.
 	- Milestone 2.1 - Complete courses 1-6
-	- Milestone 2.2 - Complete capstone project
+	- Milestone 2.2 - Complete capstone project and receive certificate
 - **Goal 3**: Deployment and application phase, targeting potential employers.
 	- Milestone 3.1 - Apply for jobs
 	- Milestone 3.2 - Secure an interview

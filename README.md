@@ -28,12 +28,21 @@ To enhance Zach Allgood's employability in Project Management by 100% within 90 
 2. Obtain the Coursera Google Project Management: Professional Certificate within 45 days.
 3. Create comprehensive project documentation within 60 days.
 4. Deploy, test, and market the application within the final 30 days of the project timeline.
-## Timeline and Milestones
+## Goals and Milestones
 
-- **Weeks 1-4**: Development phase for the Job Application Tracker.
-- **Weeks 1-6**: Completion of the Coursera Google Project Management Certificate.
-- **Weeks 7-8**: Documentation phase.
-- **Weeks 9-12**: Deployment and marketing phase, targeting potential employers.
+- **Goal 1**: Development phase for the Job Application Tracker.
+	- Milestone 1.1 - Establish JAT foundation
+	- Milestone 1.2 - Core functionality development
+	- Milestone 1.3 - UI/UX and security
+	- Milestone 1.4 - Testing and QA
+	- Milestone 1.5 - Deployment
+- **Goal 2**: Completion of the Coursera Google Project Management Certificate.
+	- Milestone 2.1 - Complete courses 1-6
+	- Milestone 2.2 - Complete capstone project
+- **Goal 3**: Deployment and application phase, targeting potential employers.
+	- Milestone 3.1 - Apply for jobs
+	- Milestone 3.2 - Secure an interview
+	- Milestone 3.3 - Accept offer for first role as Project Manage
 
 ## Budget
 

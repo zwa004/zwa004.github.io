@@ -1,4 +1,6 @@
-# Project Charter for Job Application Tracker
+# Job Application Project
+
+# Project Charter
 
 ## Purpose
 

@@ -21,6 +21,7 @@ To enhance Zach Allgood's employability in Project Management by 100% within 90 
 - **Zach Allgood (Business Application Developer)**: Responsible for the technical development of the Job Application Tracker.
 - **Zach Allgood (High School Teacher and Coach)**: Provides educational insights, focusing on structuring the project as a teachable case study.
 - **Zach Allgood (Fitness Coach)**: Offers a perspective on discipline and goal-setting, crucial for project timelines and milestones.
+
 ### Project Scope
 
 - Development and showcasing of the Job Application Tracker to demonstrate project management, software development, and data analysis skills.
@@ -28,12 +29,14 @@ To enhance Zach Allgood's employability in Project Management by 100% within 90 
 - Detailed project documentation to illustrate the planning, execution, and management processes involved in the project.
 - Deployment of the application to provide a live, functional example of work.
 - Marketing the project and GitHub page to increase visibility and reach potential employers.
+  
 ### Project Objectives
 
 1. Develop and launch the Job Application Tracker within the first 30 days.
 2. Obtain the Coursera Google Project Management: Professional Certificate within 45 days.
 3. Create comprehensive project documentation within 60 days.
 4. Deploy, test, and market the application within the final 30 days of the project timeline.
+   
 ### Goals and Milestones
 
 - **Goal 1**: Development phase for the Job Application Tracker.
@@ -49,10 +52,12 @@ To enhance Zach Allgood's employability in Project Management by 100% within 90 
 	- Milestone 3.1 - Apply for jobs
 	- Milestone 3.2 - Secure an interview
 	- Milestone 3.3 - Accept offer for first role as Project Manager
+   
 ### Budget
 
 - Estimated Monthly Budget: $100, covering software tools, hosting, marketing, and educational expenses.
 - Resource Allocation: Time and effort of Zach Allgood, supported by personal and professional stakeholders.
+
 ### Risk Management
 
 - Addressing technical, timeline, and market risks with appropriate mitigation strategies.

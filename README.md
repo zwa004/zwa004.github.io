@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Page Title"
+permalink: /URL-path/
+---
+
 ## Artifacts and Deliverables
 [Job Application GitHub Repo](https://github.com/zwa004/Job-Application-Project)
 #Gantt Chart

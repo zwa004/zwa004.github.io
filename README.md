@@ -42,7 +42,7 @@ To enhance Zach Allgood's employability in Project Management by 100% within 90 
 - **Goal 3**: Deployment and application phase, targeting potential employers.
 	- Milestone 3.1 - Apply for jobs
 	- Milestone 3.2 - Secure an interview
-	- Milestone 3.3 - Accept offer for first role as Project Manage
+	- Milestone 3.3 - Accept offer for first role as Project Manager
 
 ## Budget
 

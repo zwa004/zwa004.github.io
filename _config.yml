@@ -32,6 +32,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+navigation:
+  - title: "Artifacts and Deliverables"
+    url: /artifacts/
+  - title: "Charter"
+    url: /charter/
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

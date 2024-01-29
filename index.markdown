@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Welcome to My Project Charter
-
 Here's a brief summary of my project...
 
 

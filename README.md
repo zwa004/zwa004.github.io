@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project: Get Zach Allgood a Job as a Project Manager
+title: Project Get Zach Allgood a Job as a Project Manager
 ---
 
 

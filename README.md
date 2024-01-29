@@ -1,8 +1,4 @@
----
-layout: page
-title: Project Get Zach Allgood a Job as a Project Manager
----
-
+## Project Charter
 
 ### Purpose
 

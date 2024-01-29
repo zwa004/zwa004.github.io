@@ -47,10 +47,11 @@ To enhance Zach Allgood's employability in Project Management by 100% within 90 
 
 ### Deliverables and Artifacts
 [Job Application GitHub Repo](https://github.com/zwa004/Job-Application-Project)
+Insert 
 #Gantt Chart
 #Risk Analysis
 #RACI 
-
+Here
    
 ### Budget
 

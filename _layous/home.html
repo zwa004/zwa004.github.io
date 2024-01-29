@@ -17,33 +17,26 @@ layout: base
         <label for="nav-trigger">
           <span class="menu-icon">
             <svg viewBox="0 0 18 15" width="18px" height="15px">
-              <path d="M1,1 17,1 M1,7 17,7 M1,13 17,13"></path>
+              <path d="M1 1h16M1 7h16M1 13h16"></path>
             </svg>
           </span>
         </label>
   
         <div class="trigger">
           {%- if site.header_pages -%}
-          <ul class="menu-list">
             {%- for my_page in site.header_pages -%}
-              {%- if my_page.title == "Charter" -%}
-                <li><a class="menu-item" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+              {%- if my_page == "charter.md" -%}
+                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              {%- elsif my_page == "artifacts.md" -%}
+                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              {%- elsif my_page == "about.md" -%}
+                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
               {%- endif -%}
             {%- endfor -%}
-            {%- for my_page in site.header_pages -%}
-              {%- if my_page.title == "Artifacts and Deliverables" -%}
-                <li><a class="menu-item" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
-              {%- endif -%}
-            {%- endfor -%}
-            {%- for my_page in site.header_pages -%}
-              {%- if my_page.title == "About" -%}
-                <li><a class="menu-item" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
-              {%- endif -%}
-            {%- endfor -%}
-          </ul>
           {%- endif -%}
         </div>
       </nav>
     </div>
   </header>
+  
   

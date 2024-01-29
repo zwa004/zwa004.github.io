@@ -1,9 +1,3 @@
-
-[Job Application GitHub Repo](https://github.com/zwa004/Job-Application-Project)
-#Gantt Chart
-#Risk Analysis
-#RACI 
-
 ## Project Charter
 
 ### Purpose
@@ -50,6 +44,13 @@ To enhance Zach Allgood's employability in Project Management by 100% within 90 
 	- Milestone 3.1 - Apply for jobs
 	- Milestone 3.2 - Secure an interview
 	- Milestone 3.3 - Accept offer for first role as Project Manager
+
+### Deliverables and Artifacts
+[Job Application GitHub Repo](https://github.com/zwa004/Job-Application-Project)
+#Gantt Chart
+#Risk Analysis
+#RACI 
+
    
 ### Budget
 

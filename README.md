@@ -1,5 +1,4 @@
-
-## Project Charter
+Project Charter
 
 ### Purpose
 

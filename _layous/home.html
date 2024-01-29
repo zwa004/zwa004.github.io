@@ -1,0 +1,49 @@
+---
+layout: base
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+</div>
+<header class="site-header" role="banner">
+    <div class="wrapper">
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+      <nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M1,1 17,1 M1,7 17,7 M1,13 17,13"></path>
+            </svg>
+          </span>
+        </label>
+  
+        <div class="trigger">
+          {%- if site.header_pages -%}
+          <ul class="menu-list">
+            {%- for my_page in site.header_pages -%}
+              {%- if my_page.title == "Charter" -%}
+                <li><a class="menu-item" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+              {%- endif -%}
+            {%- endfor -%}
+            {%- for my_page in site.header_pages -%}
+              {%- if my_page.title == "Artifacts and Deliverables" -%}
+                <li><a class="menu-item" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+              {%- endif -%}
+            {%- endfor -%}
+            {%- for my_page in site.header_pages -%}
+              {%- if my_page.title == "About" -%}
+                <li><a class="menu-item" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
+              {%- endif -%}
+            {%- endfor -%}
+          </ul>
+          {%- endif -%}
+        </div>
+      </nav>
+    </div>
+  </header>
+  

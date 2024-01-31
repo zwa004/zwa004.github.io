@@ -28,7 +28,7 @@ github_username:  jekyll
 
 # Build settings
 theme: minima
-  skin: dark
+skin: dark
 
 header_pages:
   - about.markdown

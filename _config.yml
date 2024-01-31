@@ -29,6 +29,12 @@ github_username:  jekyll
 # Build settings
 theme: minima
 
+header_pages:
+  - about.markdown
+  - charter.md
+  - artifacts.md
+
+
 navigation:
   - title: "About"
     url: /about/

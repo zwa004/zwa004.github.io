@@ -21,20 +21,19 @@ layout: base
             </svg>
           </span>
         </label>
-  
         <div class="trigger">
           {%- if site.header_pages -%}
             {%- for my_page in site.header_pages -%}
-              {%- if my_page == "charter.md" -%}
+              {%- if my_page == "about.md" -%}
+                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              {%- elsif my_page == "charter.md" -%}
                 <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
               {%- elsif my_page == "artifacts.md" -%}
-                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-              {%- elsif my_page == "about.md" -%}
                 <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
               {%- endif -%}
             {%- endfor -%}
           {%- endif -%}
-        </div>
+        </div>        
       </nav>
     </div>
   </header>

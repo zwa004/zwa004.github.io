@@ -33,10 +33,13 @@ plugins:
   - jekyll-feed
 
 navigation:
-  - title: "Artifacts and Deliverables"
-    url: /artifacts/
+  - title: "About"
+    url: /about/
   - title: "Charter"
     url: /charter/
+  - title: "Artifacts and Deliverables"
+    url: /artifacts/
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

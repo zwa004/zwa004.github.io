@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Charter
+title: Project Charter
 ---
-
-## Project Charter
 
 ### Purpose
 
@@ -27,7 +25,7 @@ To enhance Zach Allgood's employability in Project Management by 100% within 90 
 - Deployment of the application to provide a live, functional example of work.
 - Marketing the project and GitHub page to increase visibility and reach potential employers.
   
-### Project Objectives
+### Project Goals
 
 1. Develop and launch the Job Application Tracker within the first 30 days.
 2. Obtain the Coursera Google Project Management: Professional Certificate within 45 days.
@@ -67,6 +65,7 @@ Here
 
 - Addressing technical, timeline, and market risks with appropriate mitigation strategies.
 - Personal and professional risks, including maintaining work-life balance and managing stress.
+
 ### Communication Plan
 
 - Regular updates to all stakeholders on progress, challenges, and next steps.

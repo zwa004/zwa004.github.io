@@ -3,4 +3,12 @@ layout: page
 title: Artifacts and Deliverables
 ---
 
-Content will be added here soon
+This page serves as the repository for any documentation of this project besides the project charter.
+
+- Project Plan
+- Risk Management Plan
+- Gantt Chart
+- RACI Matrix
+- Retrospective
+- Impact Report
+- Data Anaylitics

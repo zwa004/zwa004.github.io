@@ -1,3 +1,4 @@
+<!--
 ## Project Charter
 
 ### Purpose
@@ -66,4 +67,4 @@ Here
 
 - Regular updates to all stakeholders on progress, challenges, and next steps.
 - A final presentation to showcase the completed application and documentation, particularly focusing on aspects relevant to potential employers.
-
+-->

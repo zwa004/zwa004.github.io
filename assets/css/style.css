@@ -1,0 +1,22 @@
+.flex-container {
+    display: flex;
+    align-items: left; /* Aligns items vertically at the center */
+    justify-content: center; /* Centers items horizontally */
+    flex-wrap: wrap; /* Allows items to wrap onto multiple lines if needed */
+  }
+  
+  .image-container {
+    flex: 1; /* Determines how the image container grows relative to the rest of the flex items */
+    max-width: 200px; /* Maximum width of the image container */
+    margin-right: 20px; /* Adds some space between the image and the text */
+  }
+  
+  .text-container {
+    flex: 3; /* Determines how the text container grows relative to the rest of the flex items */
+  }
+  
+  .custom-image {
+    max-width: 100%;
+    height: auto;
+  }
+  

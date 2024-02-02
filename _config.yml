@@ -39,8 +39,8 @@ header_pages:
 
 
 navigation:
-  - title: "About"
-    url: /about/
+  # - title: "About"
+  #   url: /about/
   - title: "Charter"
     url: /charter/
   - title: "Artifacts and Deliverables"

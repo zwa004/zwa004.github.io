@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: custom_home
-title: Welcome to My Project Management Capstone!
+title: Welcome to My Web Page!
 ---
 
 ## About Me
@@ -12,5 +12,5 @@ I am a project manager with over 10 years of experience in team management, prob
 
 ## About this Website
 
-The purpose of this website is to display my Capstone Project: Break into Project Managment. On the pages of this site you will find the documents needed to initiate, plan, execute, monitor and control, and close a successfully managed project. 
+The purpose of this website is to display my Capstone Project: Break into Project Managment. On the pages of this site you will find the documents needed to initiate, plan, execute, monitor and control, and close a successfully managed project.
 

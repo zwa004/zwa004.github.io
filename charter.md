@@ -60,16 +60,6 @@ To enhance Zach Allgood's employability in Project Management by 100% within 90 
 - **Task 4.3**: Secure an Interview
 - **Task 4.4**: Accept Offer for First Role as Project Manager
 
-
-### Deliverables and Artifacts
-[Job Application GitHub Repo](https://github.com/zwa004/Job-Application-Project)
-- RACI Chart
-- Timeline
-- Work Breakdown Structure
-- Project Plan (Gantt)
-- Retrospective
-- Impact Report
-
 ## Timeline
 
 | Phase          | Tasks                                      | Timeframe       |

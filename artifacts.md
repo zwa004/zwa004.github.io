@@ -4,6 +4,8 @@ title: Artifacts and Deliverables
 ---
 
 This page serves as the repository for any documentation of this project besides the project charter.
+#### Job Application Tracking App
+[Job Application GitHub Repo](https://github.com/zwa004/Job-Application-Project)
 
 #### Project Plan
 ![](/assets/project_plan.png)
@@ -12,9 +14,7 @@ This page serves as the repository for any documentation of this project besides
 ![Testing](/assets/RACI.png)
 
 #### Work Breakdown Structure
+![WBS](/assets/wbs.png)
 
-- Link to Job Application Tracker App Repo
-- Product Backlog
-- Retrospective
-- Impact Report
-- Data Analytics
+#### Sprint Backlog
+![Backlog](/assets/sprint_backlog.png)

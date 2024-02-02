@@ -10,12 +10,11 @@ To enhance Zach Allgood's employability in Project Management by 100% within 90 
 ### Stakeholders
 
 - **Potential Employer**: A critical stakeholder, as this project serves as a direct showcase of Zach Allgood’s skills and capabilities for potential employment opportunities. The project's execution and presentation are tailored to meet the expectations and interests of potential employers in the field of project management and related areas.
-- **Wife**: Offers support and feedback, ensuring a balanced approach to the project’s development. Dependent on the income and lifestyle.
-- **Two Cats and a Dog**: Representing the importance of work-life balance and well-being. Dependent on the income.
-- **Zach Allgood (Data Analyst)**: Brings expertise in data analysis, playing a crucial role in analyzing job application data.
-- **Zach Allgood (Business Application Developer)**: Responsible for the technical development of the Job Application Tracker.
-- **Zach Allgood (High School Teacher and Coach)**: Provides educational insights, focusing on structuring the project as a teachable case study.
-- **Zach Allgood (Fitness Coach)**: Offers a perspective on discipline and goal-setting, crucial for project timelines and milestones.
+- **Wife**: Critical stakeholder. Offers support and feedback, ensuring a balanced approach to the project’s development. Dependent on the income and lifestyle.
+- **Zach Allgood (Project Manager, Data Analyst, Web Developer, Coach)**: A critical and unique stakeholder, this project relies on Zach's project management skills learned across multiple domains. Zach also relies on this project to acquire interviews for roles he has interest in. 
+- **Charlie Geepeet (Project Management Consultant)**: Charlie supports the vision of the project, using his vast knowledge of methodologies and best practices for initiating, overseeing, and landing projects across all domains.
+- **Gabby Pilot (Technical Development Manager)**: Gabby supports the requirements for the Pages and JAT application needed to create specific technical deliverables with her strong skills in full stack web development and version control in GitHub.
+- **Chat Baught (PMO Director)**: Oversees and signs off on milestones and major components of project.
 
 ### Project Scope
 
@@ -23,38 +22,63 @@ To enhance Zach Allgood's employability in Project Management by 100% within 90 
 - Completion of the Coursera Google Project Management: Professional Certificate within 45 days to enhance project management knowledge and credentials.
 - Detailed project documentation to illustrate the planning, execution, and management processes involved in the project.
 - Deployment of the application to provide a live, functional example of work.
-- Marketing the project and GitHub page to increase visibility and reach potential employers.
+- Creation of a GitHub Page for displaying Project.
+- Marketing the project and GitHub Page on job applications to increase visibility and reach potential employers.
   
 ### Project Goals
 
 1. Develop and launch the Job Application Tracker within the first 30 days.
 2. Obtain the Coursera Google Project Management: Professional Certificate within 45 days.
-3. Create comprehensive project documentation within 60 days.
+3. Create comprehensive project documentation within 7 days.
 4. Deploy, test, and market the application within the final 30 days of the project timeline.
    
-### Goals and Milestones
+### Milestones and Tasks
 
-- **Goal 1**: Development phase for the Job Application Tracker.
-	- Milestone 1.1 - Establish JAT foundation
-	- Milestone 1.2 - Core functionality development
-	- Milestone 1.3 - UI/UX and security
-	- Milestone 1.4 - Testing and QA
-	- Milestone 1.5 - Deployment
-- **Goal 2**: Completion of the Coursera Google Project Management Certificate.
-	- Milestone 2.1 - Complete courses 1-6
-	- Milestone 2.2 - Complete capstone project and receive certificate
-- **Goal 3**: Deployment and application phase, targeting potential employers.
-	- Milestone 3.1 - Apply for jobs
-	- Milestone 3.2 - Secure an interview
-	- Milestone 3.3 - Accept offer for first role as Project Manager
+#### Milestone 1: Develop and Deploy the Job Application Tracker
+- **Task 1.1**: Establish JAT foundation
+- **Task 1.2**: Core functionality development
+- **Task 1.3**: UI/UX and security
+- **Task 1.4**: Testing and QA
+- **Task 1.5**: Deployment
+
+#### Milestone 2: Completion of the Coursera Google Project Management Certificate
+- **Task 2.1**: Complete course 1
+- **Task 2.2**: Complete course 2
+- **Task 2.3**: Complete course 3
+- **Task 2.4**: Complete course 4
+- **Task 2.5**: Complete course 5
+- **Task 2.6**: Complete capstone project and receive certificate
+
+#### Milestone 3: Customize and Deploy GitHub Page
+- **Task 3.1**: Outline page needs
+- **Task 3.2**: Deploy and customize page format
+- **Task 3.3**: Add project documentation and artifacts
+
+#### Milestone 4: Update Job Documents and Apply for Jobs
+- **Task 4.1**: Update resume with GitHub page and pertinent job information
+- **Task 4.2**: Apply for jobs
+- **Task 4.3**: Secure an Interview
+- **Task 4.4**: Accept Offer for First Role as Project Manager
+
 
 ### Deliverables and Artifacts
 [Job Application GitHub Repo](https://github.com/zwa004/Job-Application-Project)
-Insert 
-#Gantt Chart
-#Risk Analysis
-#RACI 
-Here
+- RACI Chart
+- Timeline
+- Work Breakdown Structure
+- Project Plan (Gantt)
+- Retrospective
+- Impact Report
+
+## Timeline
+
+| Phase          | Tasks                                      | Timeframe       |
+| -------------- | ------------------------------------------ | --------------- |
+| Initialization | - Charter creation<br>- Stakeholder identification | Week 1          |
+| Development    | - JAT app development<br>- GitHub Page<br>-   | Weeks 2-4       |
+| Certification  | - Complete Google PM courses<br>- Capstone project | Weeks 5-7       |
+| Application    | - Job applications<br>- Interviews        | Weeks 8-12      |
+| Closure        | - Retrospective<br>- Final documentation   | Week 13         |
    
 ### Budget
 

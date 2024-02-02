@@ -33,6 +33,7 @@ skin: dark
 header_pages:
   - about.markdown
   - charter.md
+  - project_plan.md
   - artifacts.md
 
 
@@ -41,6 +42,8 @@ navigation:
     url: /about/
   - title: "Charter"
     url: /charter/
+  - title: "Project Plan"
+    url: /project_plan/
   - title: "Artifacts and Deliverables"
     url: /artifacts/
 

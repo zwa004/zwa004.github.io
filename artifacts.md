@@ -12,4 +12,4 @@ This page serves as the repository for any documentation of this project besides
 - RACI Matrix
 - Retrospective
 - Impact Report
-- Data Anaylitics
+- Data Analytics

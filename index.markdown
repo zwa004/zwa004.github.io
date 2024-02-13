@@ -12,8 +12,4 @@ My name is Zach and I am a project manager with over 10 years of experience in t
 
 ## About this Website
 
-The purpose of this website is to display my Capstone Project: Break into Project Managment. On the pages of this site you will find the documents needed to initiate, plan, execute, monitor and control, and close a successfully managed project.
-
-#### What this Website Doesn't Show
-
-While this project is meant to display my grasp of technical project management concepts, I firmly believe that every successful project will, at its heart, be made of a team of people who feel seen and valued professionally. I also believe that project managers are critical to sustaining and building a culture that supports the kind of team that people want to be on.
+The purpose of this website is to display my Capstone Project: Break into Project Managment. On the pages of this site you will find the documents needed to initiate, plan, execute, monitor and control, and close a successfully managed project. While this project is meant to display my grasp of technical project management concepts, I firmly believe that every successful project will, at its heart, be made of a team of people who feel seen and valued professionally. I also believe that project managers are critical to sustaining and building a culture that supports the kind of team that people want to be on.

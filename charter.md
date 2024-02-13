@@ -15,6 +15,7 @@ To enhance Zach Allgood's employability in Project Management by 100% within 90 
 - **Charlie Geepeet (Project Management Consultant)**: Charlie supports the vision of the project, using his vast knowledge of methodologies and best practices for initiating, overseeing, and landing projects across all domains.
 - **Gabby Pilot (Technical Development Manager)**: Gabby supports the requirements for the Pages and JAT application needed to create specific technical deliverables with her strong skills in full stack web development and version control in GitHub.
 - **Chat Baught (PMO Director)**: Oversees and signs off on milestones and major components of project.
+- **Sam Bard (VP of Programs and Operations)**: placeholder
 
 ### Project Scope
 

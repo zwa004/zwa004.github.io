@@ -8,9 +8,9 @@ This page serves as the repository for any documentation of this project besides
 [Job Application GitHub Repo](https://github.com/zwa004/Job-Application-Project)
 ![Main Page](/assets/jat_main.png)
 The main page of the JAT
-![JAT Submission Page](/zwa004.github.io/assets/jat_create.png)
+![JAT Submission Page](/assets/jat_create.png)
 The page for creating a JAT entry
-![JAT Edit Page](/zwa004.github.io/assets/jat_edit.png)
+![JAT Edit Page](/assets/jat_edit.png)
 The page for editing JAT data
 
 ## Project Plan
